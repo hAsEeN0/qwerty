@@ -14,3 +14,7 @@ this is new line
 # disturb
 
 discord
+
+# deadline
+
+sudo deadline install apt
